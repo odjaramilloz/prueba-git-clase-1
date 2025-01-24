@@ -20,3 +20,5 @@ Este es el cambio desde mi pc
    $$$$$e..d$$$"$$$b  4$$$"  J$$$L  '$$$$  '$$$b..d$$
     *$$$$$$$$$  ^$$$be$$$"  $$$$$$$  3$$$$F "$$$$$$$"
      ^*$$$$P"     *$$$$*    $$$$$$$   $$$$F  ^*$$$"
+
+cambio con la regla activa para PR a main
