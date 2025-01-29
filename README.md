@@ -22,3 +22,5 @@ Este es el cambio desde mi pc
      ^*$$$$P"     *$$$$*    $$$$$$$   $$$$F  ^*$$$"
 
 cambio con la regla activa para PR a main
+
+ESTE ES UN CAMBIO HECHO EN LA RAMA OSCAR/MODIFICACIONREADME
