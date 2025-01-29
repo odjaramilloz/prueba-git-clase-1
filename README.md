@@ -22,3 +22,4 @@ Este es el cambio desde mi pc
      ^*$$$$P"     *$$$$*    $$$$$$$   $$$$F  ^*$$$"
 
 cambio con la regla activa para PR a main
+Este es el cambio realizado por carlos
